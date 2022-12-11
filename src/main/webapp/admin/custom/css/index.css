@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.numberPage {
+	background-color: #e4e4e4;
+	color: #000;
+	padding: 0;
+	min-width: 2.5rem;
+	text-align: center;
+	height: 1.875rem;
+	font-size: 1.25rem;
+	margin-left: 0.9375rem;
+	margin-right: 0.9375rem;
+	border-radius: 45%;
+}
+
+.numberPage:hover {
+	background-color: rgb(238, 77, 45);
+}
+
+.activeCustom {
+	background-color: rgb(230, 77, 45);
+}
+
